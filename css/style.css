@@ -1047,4 +1047,180 @@ customer start
 customer  end
 =========================*/
 
+/*=========================
+project start
+=========================*/
+
+.project{
+    background-color: #FFD7C8;
+    margin-top: 50px;
+    position: relative;
+    
+}
+.project .ab{
+    height: 400px;
+    position: relative;
+}
+.project h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color:#29313D;
+    text-transform: capitalize;
+    padding-top: 100px;
+    width: 70px;
+   
+}
+.project h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    color:#29313D;
+    text-transform: capitalize;
+    padding-bottom: 15px; 
+}
+
+.project p{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    padding-top: 10px;
+}
+
+.project .button{
+    position: absolute;
+    top: 114px;
+    right: 0px;
+}
+.project .button a{ 
+    display: inline-block;
+    background: red;
+    padding: 14px 28px;
+    border-radius: 18px;
+    
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin: 0 ;
+    border: 1px solid red;
+    transition: .4s;
+
+
+}
+
+.proj-bal{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:0;
+    right: 0;
+}
+.proj-ball{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top:70px;
+    right: 45px;
+
+}
+
+
+/*=========================
+project   end
+=========================*/
+
+
+/*=========================
+foot start
+=========================*/
+.fotcon{
+    background-color: #FFFFFF;
+}
+.fotcon .fotconUp{
+    height: 400px;
+}
+
+.fotcon .fotconDown{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.fotcon .fotconUp{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fotconUp .fupone{
+    width: 300px;
+}
+.fotconUp .fuptwo{
+    width: 100px;
+    padding-left:130px ;
+}
+.fotconUp .fupthree{
+    width: 200px;
+    padding-left:100px ;
+}
+.fotconUp .fupfour{
+    width: 200px;
+    padding-left:100px ;
+}
+
+.fotconUp .fimg{
+    width: 80px;
+    height: 40px;
+    margin-top: 100px;
+}
+
+.fotcon .fotconUp p{
+    text-transform: capitalize;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 398px;
+    padding-top: 20px;
+    line-height: 25px;
+    color:#29313D;
+}
+.fuptwo h2{
+    margin-top: 100px;
+    text-align: end;
+    
+}
+.fupthree h2{
+    margin-top: 100px;
+    text-align: end;
+    
+}
+.fupfour h2{
+    margin-top: 100px;
+    text-align: end;
+    
+}
+
+.fotcon h4{
+    text-align: end;
+    color:#29313D;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.fotconDown .ftpp{
+    padding-left: 478px;;
+}
+
+.fotconDown p{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #29313D;
+}
+/*=========================
+foot  end
+=========================*/
 
